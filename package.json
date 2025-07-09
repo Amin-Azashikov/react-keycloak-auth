@@ -1,0 +1,17 @@
+{
+  "name": "react-keycloak-auth",
+  "version": "1.0.0",
+  "description": "Simple React wrapper on top of keycloak-js",
+  "author": "Amin Azashikov",
+  "license": "ISC",
+  "types": "./build",
+  "main": "build/index.js",
+  "peerDependencies": {
+    "keycloak-js": "^26.1.1",
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.8.3"
+  }
+}
