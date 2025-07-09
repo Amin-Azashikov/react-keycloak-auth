@@ -1,15 +1,12 @@
 {
-  "name": "react-keycloak-auth",
+  "name": "@amin-azashikov/react-keycloak-auth",
   "version": "0.0.1",
   "description": "Simple React wrapper on top of keycloak-js",
   "author": "Amin Azashikov",
   "license": "ISC",
   "types": "./build",
   "main": "build/index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Amin-Azashikov/react-keycloak-auth.git"
-  },
+  "repository": "https://github.com/Amin-Azashikov/react-keycloak-auth.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
