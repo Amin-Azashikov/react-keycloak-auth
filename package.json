@@ -1,6 +1,6 @@
 {
   "name": "react-keycloak-auth",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Simple React wrapper on top of keycloak-js",
   "author": "Amin Azashikov",
   "license": "ISC",
