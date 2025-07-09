@@ -6,6 +6,13 @@
   "license": "ISC",
   "types": "./build",
   "main": "build/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amin-Azashikov/react-keycloak-auth.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "peerDependencies": {
     "keycloak-js": "^26.1.1",
     "react": "^19.0.0"
